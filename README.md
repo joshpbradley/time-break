@@ -1,4 +1,4 @@
-# time-break
+# Time Break
 Welcome to Time Break: an original PvP local co-op shooter! Use an arsenal of unique abilities, weapons and items as well as the environment itself to defeat your opponent.
 
 This project is written in Java, and makes use of the JSFML library to support multimedia. It was initially conceptualised and created as a group academic project during my second year of the Lancaster University MSci Computer Science course.
