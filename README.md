@@ -9,6 +9,8 @@ To win the game, you must be the first player to deplete your opponent's health 
 
 Please read the manual/documentation for gameplay controls and information on individual gameplay elements.
 
+**GALLERY**
+
 ![Character-Select](https://user-images.githubusercontent.com/48052531/233476884-d66ffc38-da32-4908-91f4-c78d69d7c178.png)
 
 ![Map-Select](https://user-images.githubusercontent.com/48052531/233476903-dcc59eef-5c81-4ab8-b05a-d3addb4bf1be.png)
